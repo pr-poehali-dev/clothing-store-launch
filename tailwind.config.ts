@@ -61,6 +61,22 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Fashion store colors
+				orange: {
+					DEFAULT: '#FF6B35',
+					light: '#FF8C69',
+					dark: '#E55A2B'
+				},
+				electric: {
+					DEFAULT: '#4ECDC4',
+					light: '#7EDDD4',
+					dark: '#3AB7AE'
+				},
+				navy: {
+					DEFAULT: '#2C3E50',
+					light: '#34495E',
+					dark: '#1B2631'
 				}
 			},
 			borderRadius: {
